@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Limpiador de planillas
 
 Toma un Excel desordenado y entrega uno limpio. Además deja constancia de **todo lo que eliminó**, para que nada se pierda sin que lo sepas.
@@ -69,3 +70,6 @@ La misma lista aparece en la pantalla al ejecutar, pero **desaparece al cerrar l
 - Revisa siempre la hoja "Eliminados" antes de entregar el resultado.
 - Trabaja con **copias** de tus archivos, nunca con el único original.
 - El script asume que el punto en los montos es separador de miles (`20.500` = 20500) y que las fechas van en orden día/mes/año.
+=======
+# limpiador-planillas
+>>>>>>> f1d9588bcf5855908bba942732eadf41f09da7f2
